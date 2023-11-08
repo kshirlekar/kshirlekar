@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# [Kalyanee Shirlekar]
+# Kalyanee Shirlekar
 ## Bioinformatician
 
 Welcome to my GitHub profile! I'm a bioinformatic scientist with a passion for solving biological problems through computational methods. As an ex-bench scientist, I am eager to bridge gap between computational scientists and biologists. I've had the opportunity to work on various projects and develop a diverse set of skills in the dynamic and evergrowing field of genomics, transcriptomics and data visualization. 
