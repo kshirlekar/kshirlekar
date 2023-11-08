@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a bioinformatic scientist with a passion for s
 
 Here are some of the projects I've worked on:
 
-1. **[Project Name 1](link-to-project-1):** Brief description of the project and its significance. - WIP
+1. **RShiny Applications:** I am working on developing my RShiny skills by creating competant and visualing compelling dashboards that will be simply the analysis part of the transcriptome sequence datasets.
+2. **R-Cheat-Sheet:** I am creating a cheat sheet for regular users of R where there are some code snippets you require for each and every R/RMD/ShinyApp file you develop. All you have to do is look for this repository and fork out the piece of code you need. 
 
 
 ### Skills
