@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm a bioinformatic scientist with a passion for s
 
 ### About Me
 
-- **Name:** [Kalyanee Shirlekar]
-- **Location:** [Gainesville]
-- **Email:** [kshirlekar@ufl.edu]
-- **LinkedIn:** [https://www.linkedin.com/in/kalyanee-shirlekar/]
+- **Name:** Kalyanee Shirlekar
+- **Location:** Gainesville
+- **Email:** kshirlekar@ufl.edu
+- **LinkedIn:** https://www.linkedin.com/in/kalyanee-shirlekar/
 
 ### Expertise
 
