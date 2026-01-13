@@ -3,21 +3,19 @@
 # Kalyanee Shirlekar
 ## Bioinformatician
 
-Welcome to my GitHub profile! I'm a bioinformatic scientist with a passion for solving biological problems through computational methods. As an ex-bench scientist, I am eager to bridge gap between computational scientists and biologists. I've had the opportunity to work on various projects and develop a diverse set of skills in the dynamic and evergrowing field of genomics, transcriptomics and data visualization. 
+Welcome to my GitHub profile! I'm a bioinformatic scientist with a passion for modelling biological problems. I look at a new project as an opportunity to refine my skills. My skillset spans across various assays: RNA-Seq, scRNA-Seq, ATAC-Seq, Cut&Run, Cut&Tag, HiC, spatial RNA-Seq (10x Visium/Xenium), CRISPR-KO screens etc. I am also a machine learning scientist and enjoy working on projects in my past time. 
 
 ### About Me
 
 - **Name:** Kalyanee Shirlekar
-- **Location:** Gainesville
-- **Email:** kshirlekar@ufl.edu
+- **Email:** kshirlekar@ufl.edu / kalyanee.shirlekar@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/kalyanee-shirlekar/
 
-### Expertise
+### Detailed Expertise
 
-- **Bioinformatics:** I specialize in developing and executing bioinformatics pipelines such as RNA-Seq, Chip-Seq, ATAC-Seq, scRNA-Seq. I am accustomed with the Nexflow pipelines, and other bioinformatics tools, packages and genome browsers. My programming expertise lies in R and Python as well as basic level bash scripting. 
-- **Machine Learning:** I am highly interested in appplying machine learning techniques to study biological conditions implicated in precision medicine.
+- **Bioinformatics:** I specialize in developing and implementing bioinformatics pipelines across transcriptomic, genomic, proteomic and metabolomic assays. I am accustomed with the Nexflow & Snakemake pipelines, and other bioinformatics tools, packages and genome browsers. My programming expertise lies in R and Python as well as basic level bash scripting. 
 - **Data Visualization** I am comfortable in Rshiny and love to experiment with different visualizations that can aid data interpretation.
-- **Genomics/Precision Medicine:** Having worked as a Variant Analyst/Biocurator for 4 years, I am well-versed with fundamentals of clinical cancer biology, clinical trial design and management, classification of cancer types (SNOMED CT terms), guideline recommendations e.g. NCCN/FDA and the importance of targeted therapies in personalized medicine.
+- **Genomics/Precision Medicine:** Having worked as a Variant Scientist for 4 years in precision oncology space, I am well-versed with fundamentals of clinical cancer biology, and class C medical device product development. 
 
 ### Projects
 
